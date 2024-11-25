@@ -176,7 +176,7 @@ const Footer = () => {
               />
             </Link>
             <Link href="#">
-              <Image src="/twitter.png" alt="Twitter" width={24} height={24} />
+              <Image src="/twitter.png" alt="twitter" width={24} height={24} />
             </Link>
             <Link href="#">
               <Image
